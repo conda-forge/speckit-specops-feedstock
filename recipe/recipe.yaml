@@ -1,5 +1,5 @@
 context:
-  version: "0.11.0"
+  version: "0.13.0"
 
 package:
   name: speckit-specops
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/speckit-specops/speckit_specops-${{ version }}.tar.gz
-  sha256: bd0f65662674f34894d9c4277ad7c0ede235c27228112ea5db433f89bca29737
+  sha256: 567b4ef9f6d8c8ba053826819e5ee7bf998465b44f998727eefd966c33e3e293
 
 build:
   noarch: python
